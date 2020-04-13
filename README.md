@@ -2,7 +2,7 @@
 
 # Vocabulary for Annotating Vocabulary Descriptions (VANN)
 
-This is a copy of VANN, A vocabulary for annotating descriptions of
+This is a copy of VANN, a vocabulary for annotating descriptions of
 vocabularies with examples and usage notes
 ([homepage](http://vocab.org/vann)).
 
